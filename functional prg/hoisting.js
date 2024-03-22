@@ -1,0 +1,1 @@
+ // const and let help to stop hoisting
